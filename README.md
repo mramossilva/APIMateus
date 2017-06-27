@@ -1,4 +1,4 @@
 # azureapi
 azure api for queue
 # url
-http://mateusapi.azurewebsites.net/api/values
+http://api-azure-phdias.azurewebsites.net/api
